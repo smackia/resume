@@ -1,0 +1,136 @@
+/* html {
+  background-image:-webkit-linear-gradient(65deg, #FFFFFF 50%, #FDDB3A 50%);
+  min-height: 1000px;
+  font-family: 'helvetica neue';
+} */
+body{
+  background-color: grey;
+  font-family: 'PT Serif', serif;
+}
+h1{
+  font-family: 'Do Hyeon', sans-serif;
+  letter-spacing: 1px;
+  font-size: 55px;
+  padding-left: 20px;
+}
+
+h2{
+  font-family: 'Do Hyeon', sans-serif;
+  letter-spacing: 4px;
+
+}
+.xyz{
+  text-align: center;
+  padding-top: 50px;
+}
+h4{
+  font-family: 'Do Hyeon', sans-serif;
+  letter-spacing: 4px;
+  padding-top: 20px;
+}
+.skil{
+  padding-left: 20px;
+}
+.a{
+  text-align: center;
+}
+.square{
+  width:75%;
+  margin-top: 100px;
+  margin-bottom: 100px;
+border-color: #FDDB3A;
+
+}
+.profileblock{
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: #FDDB3A;
+  /* border: 1px solid; */
+  box-shadow: 10px 10px 10px #FDDB3A;
+}
+.informationblock{
+  padding-top: 50px;
+  background-color: #FFFFFF;
+  /* border: 1px solid; */
+  box-shadow: 10px 10px 10px #FFFFFF;
+}
+img{
+  width: 75%;
+  border-radius: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.btech{
+  font-family: 'Do Hyeon', sans-serif;
+  letter-spacing: 4px;
+  text-align: center;
+}
+p{
+  font-family: 'PT Serif', serif;
+
+}
+.contact{
+  padding-left: 20px;
+}
+.reached{
+  padding-bottom:20px;
+}
+.it{
+  letter-spacing: 1px;
+  padding-left: 20px;
+  font-size: 20px;
+}
+li{
+  padding-left: 20px;
+}
+.Personal{
+  padding-left: 20px;
+  padding-top: 20px;
+}
+hr{
+  margin-top: 30px;
+  margin-bottom:30px;
+  background-color: #FFFFFF;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: thick;
+  border-color: #FDDB3A;
+  width: 50%;
+}
+* {
+      box-sizing: border-box;
+   }
+   .print{
+      width:100%;
+      background-color:#FFFFFF;
+      border-radius: 20px;
+   }
+   .cpp, .java, .webd, .c,.Python {
+      text-align: center;
+      font-weight: bolder;
+      padding-top: 3px;
+      padding-bottom: 3px;
+      color: white;
+      border-radius: 20px;
+   }
+   .Python {
+      width: 80%;
+      background-color: #FDDB3A;
+   }
+   .cpp {
+      width:60%;
+      background-color: #FDDB3A;
+   }
+   .java {
+      width: 70%;
+      background-color: #FDDB3A;
+   }
+   .webd {
+      width: 75%;
+      background-color: #FDDB3A;
+   }
+   .c {
+      width: 70%;
+      background-color: #FDDB3A;
+   }
